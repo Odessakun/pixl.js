@@ -142,7 +142,7 @@ static nus_rx_data_handler_t m_nus_rx_data_handler =
 static nus_tx_ready_handler_t m_nus_tx_ready_handler =
     NULL; /**< Event handler to be called for handling transmitted packets. */
 
-#define DEVICE_NAME_PIXLJS "Pixl.js"
+#define DEVICE_NAME_PIXLJS "Odyssakun"
 #define DEVICE_NAME_AMIIBOLINK "amiibolink"
 #define DEVICE_NAME_AMILOOP "AmiLoop"
 
